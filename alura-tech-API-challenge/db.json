@@ -1,0 +1,52 @@
+{
+    "produtos": [
+      {
+        "id": "a526",
+        "nome": "Cabo Usb tipo C",
+        "preco": "29,99",
+        "imagem": "https://cdn.awsli.com.br/2500x2500/254/254944/produto/156819435/cabo-usb-tipo-c-x-tipo-c-2-metro-ioncabos-003-xtjs18ozkj.jpg" },
+      {
+        "id": "93d5",
+        "nome": "Fone Bluetooth",
+        "preco": "39,99",
+        "imagem": "https://a-static.mlcdn.com.br/450x450/fone-de-ouvido-bluetooth-5-0-sem-fio-tws-compativel-iphone-samsung-motorola-altomex/maviimports/b97085c257be11eeace24201ac185056/47d18e96db34a43045803e379bc86972.jpeg" },
+      {
+        "id": "b12e",
+        "nome": "Carregador por Indução",
+        "preco": "69,99",
+        "imagem": "https://down-br.img.susercontent.com/file/08f7e6ccee90f4f0b9167b0e87c3a430"
+      },
+      {
+        "id": "fbb0",
+        "nome": "Teclado Mecânico",
+        "preco": "199,99",
+        "imagem": "https://m.media-amazon.com/images/I/51XqOl8BEQL._AC_UF894,1000_QL80_.jpg" },
+      {
+        "id": "594a",
+        "nome": "Fonte Carregador 30w",
+        "preco": "49,99",
+        "imagem": "https://b2b.upehelp.com.br/wp-content/uploads/2023/06/01.jpg"
+ },
+      {
+        "id": "add5",
+        "nome": "Mouse Bluetooth",
+        "preco": "59,99",
+        "imagem": "https://ae01.alicdn.com/kf/Saf88de18685d458c8adb2c7049ed4580V/Rato-sem-fio-bluetooth-recarreg-vel-mouse-sem-fio-computador-silencioso-mause-ergon-mico-mini-mouse.jpg" },
+      {
+        "id": "5b5c",
+        "nome": "Monitor Led",
+        "preco": "649,99",
+        "imagem": "https://waz.vteximg.com.br/arquivos/ids/218343-1000-1000/124462-1-Monitor_LED_23_8pol_LG_24MP400_B_IPS_Full_HD_HDMI_Free_Sync_124462.jpg?v=637813924639270000" },
+      {
+        "id": "94ef",
+        "nome": "SoundBar",
+        "preco": "299,99",
+        "imagem": "https://ae01.alicdn.com/kf/He3deffda73184a458cf608280725bfe6e/Soundbar-Surround-3D-com-Bluetooth-5-0-alto-falantes-com-fio-subwoofer-est-reo-barra-de.jpg"
+ },
+      {
+        "id": "c48c",
+        "nome": "Barra de Luz de Led",
+        "preco": "69,99",
+        "imagem": "https://61507.cdn.simplo7.net/static/61507/sku/3052_62bc5bcb-32cc-4d18-a2d2-1f114e615be9_1024x1024.jpg" }
+    ]
+  }
